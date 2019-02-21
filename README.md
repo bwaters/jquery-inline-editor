@@ -1,4 +1,4 @@
-
+Migrated from https://code.google.com/archive/p/jquery-inline-editor/
 
 jQuery plugin that enables row editing on a table
 
